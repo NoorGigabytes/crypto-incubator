@@ -7,6 +7,7 @@ module.exports = {
       animation: {
         float: 'float 2s ease-in-out infinite',
         floatreverse: 'floatreverse 2s ease-in-out infinite',
+        rotate: 'rotate 30s infinite linear',
       },
       keyframes: {
         float: {
@@ -16,6 +17,10 @@ module.exports = {
        floatreverse: {
           '0%, 100%': { transform: 'translateY(0.5em)' },
           '50%': { transform: 'translateY(-0.5em)' },
+        },
+       rotate: {
+          'from' : { transform: 'rotate(0deg)' },
+          'to': { transform: 'rotate(359deg)' },
         }
       }
     },

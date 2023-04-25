@@ -11,7 +11,7 @@ export default function Footer() {
   }
 
   return (
-    <div className="text-[#a1abb9] md:container mx-auto py-14 px-5">
+    <div className="text-[#a1abb9] md:container mx-auto pb-14 pt-32 px-5">
       <div className="mb-10 flex flex-wrap justify-around gap-16">
         <div className="w-min">
           <h1 className="font-bold uppercase text-3xl text-[#1BD9BF] pb-5">
@@ -29,10 +29,10 @@ export default function Footer() {
                     <Link to="/">Homepage</Link>
                 </li>
                 <li className="pb-1 hover:text-[#21eed3] transition-all duration-300 ease-in-out">
-                    <Link to="/">About</Link>
+                    <Link to="/about">About</Link>
                 </li>
                 <li className="pb-1 hover:text-[#21eed3] transition-all duration-300 ease-in-out">
-                    <Link to="/">Terms & Conditions</Link>
+                    <Link to="/terms-and-conditions">Terms & Conditions</Link>
                 </li>
                 <li className="pb-1 hover:text-[#21eed3] transition-all duration-300 ease-in-out">
                     <Link to="/">Private Policy</Link>
