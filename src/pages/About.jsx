@@ -83,7 +83,7 @@ function About() {
           {cardsContent.map((card, index) => (
             <div key={index} className="p-2">
               <Tilt
-                className=" shadow-lg border border-[#1BD9BF] px-3 py-5"
+                className=" shadow-lg rounded-lg border-[#1BD9BF] px-3 py-5 bg-[#1E2733]"
                 options={{
                   max: 15,
                   scale: 1.05,
