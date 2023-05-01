@@ -5,6 +5,10 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Footer from './components/Footer';
 import TermsAndConditions from './pages/TermsAndConditions';
+import NFTs from './pages/NFTs';
+import Pools from './pages/Pools';
+import NFTDetail from './pages/NFTDetail';
+import PoolDetail from './pages/PoolDetail';
 
 function App() {
   return (
@@ -14,6 +18,10 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />}/>
         <Route path="/about" element={<About />} />
+        <Route path="/nfts" element={<NFTs />} />
+        <Route path="/pools" element={<Pools />} />
+        <Route path="/nft-detail:id" element={<NFTDetail />} />
+        <Route path="/pool-detail:id" element={<PoolDetail />} />
         <Route path="/terms-and-conditions" element={<TermsAndConditions />} />
       </Routes>
       <Footer/>

@@ -1,0 +1,566 @@
+[
+  {
+    "id": 1,
+    "image": "https://cdn.daostarter.pro/Antmons_logo2.png",
+    "title": "CryptoPup",
+    "totalRaise": "5000",
+    "depositToken": "USDT",
+    "totalDeposit": "10000",
+    "startDate": "2023-05-01T00:00:00Z",
+    "endDate": "2023-05-08T00:00:00Z",
+    "saleStatus": "completed",
+    "fcfs": true,
+    "projectDetail": "CryptoPup is a collection of unique digital dogs on the Ethereum blockchain.",
+    "vestingPeriod": "6 months",
+    "distributionMethod": "Airdrop",
+    "inventory": [
+      {
+        "item": "CryptoPup #1",
+        "price": "1",
+        "maxNumber": "100",
+        "numberLeft": "100"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "ETH",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/cryptopup",
+    "twitterUrl": "https://twitter.com/cryptopup",
+    "websiteUrl": "https://www.cryptopup.com"
+  },
+  {
+    "id": 2,
+    "image": "https://cdn.daostarter.pro/photo_2022-12-09_15-54-35.jpg",
+    "title": "Pixel Art Collection",
+    "totalRaise": "10000",
+    "depositToken": "USDT",
+    "totalDeposit": "20000",
+    "startDate": "2023-05-15T00:00:00Z",
+    "endDate": "2023-05-22T00:00:00Z",
+    "saleStatus": "completed",
+    "fcfs": false,
+    "projectDetail": "Pixel Art Collection is a series of unique pixel art NFTs inspired by classic video games.",
+    "vestingPeriod": "3 months",
+    "distributionMethod": "Minting",
+    "inventory": [
+      {
+        "item": "Pixel Art #1",
+        "price": "0.1",
+        "maxNumber": "500",
+        "numberLeft": "500"
+      },
+      {
+        "item": "Pixel Art #2",
+        "price": "0.2",
+        "maxNumber": "250",
+        "numberLeft": "250"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "BSC",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/pixelartcollection",
+    "twitterUrl": "https://twitter.com/pixelart",
+    "websiteUrl": "https://www.pixelartcollection.com"
+  },
+  {
+    "id": 3,
+    "image": "https://cdn.daostarter.pro/kitsumon_logo2.jpg",
+    "title": "Galactic Wars",
+    "totalRaise": "20000",
+    "depositToken": "USDT",
+    "totalDeposit": "40000",
+    "startDate": "2023-06-01T00:00:00Z",
+    "endDate": "2023-06-08T00:00:00Z",
+    "saleStatus": "completed",
+    "fcfs": true,
+    "projectDetail": "Galactic Wars is a collection of unique space-themed NFTs that let you battle against other players.",
+    "vestingPeriod": "6 months",
+    "distributionMethod": "Lottery",
+    "inventory": [
+      {
+        "item": "Galactic Ship #1",
+        "price": "1",
+        "maxNumber": "50",
+        "numberLeft": "50"
+      },
+      {
+        "item": "Galactic Ship #2",
+        "price": "2",
+        "maxNumber": "25",
+        "numberLeft": "25"
+      },
+      {
+        "item": "Galactic Ship #3",
+        "price": "5",
+        "maxNumber": "10",
+        "numberLeft": "10"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "SOL",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/galacticwars",
+    "twitterUrl": "https://twitter.com/galacticwars",
+    "websiteUrl": "https://www.galacticwars.com"
+  },
+  {
+    "id": 4,
+    "image": "https://cdn.daostarter.pro/NomadLand_logo2.png",
+    "title": "Artistic Expression",
+    "totalRaise": "15000",
+    "depositToken": "USDT",
+    "totalDeposit": "30000",
+    "startDate": "2023-06-15T00:00:00Z",
+    "endDate": "2023-06-22T00:00:00Z",
+    "saleStatus": "completed",
+    "fcfs": false,
+    "projectDetail": "Artistic Expression is a collection of abstract digital art NFTs that explore the limits of creativity.",
+    "vestingPeriod": "3 months",
+    "distributionMethod": "Auction",
+    "inventory": [
+      {
+        "item": "Artistic Expression #1",
+        "price": "0.5",
+        "maxNumber": "100",
+        "numberLeft": "100"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "ADA",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/artisticexpression",
+    "twitterUrl": "https://twitter.com/artisticexp",
+    "websiteUrl": "https://www.artisticexpression.com"
+  },
+  {
+    "id": 5,
+    "image": "https://cdn.daostarter.pro/elfmatrix_logo2.png",
+    "title": "NFT Land",
+    "totalRaise": "25000",
+    "depositToken": "USDT",
+    "totalDeposit": "50000",
+    "startDate": "2023-07-01T00:00:00Z",
+    "endDate": "2023-07-08T00:00:00Z",
+    "saleStatus": "upcoming",
+    "fcfs": true,
+    "projectDetail": "NFT Land is a collection of virtual land parcels on the Polygon blockchain where you can build and trade NFTs.",
+    "vestingPeriod": "6 months",
+    "distributionMethod": "Minting",
+    "inventory": [
+      {
+        "item": "NFT Land Parcel #1",
+        "price": "1",
+        "maxNumber": "1000",
+        "numberLeft": "1000"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "MATIC",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/nftland",
+    "twitterUrl": "https://twitter.com/nftland",
+    "websiteUrl": "https://www.nftland.com"
+  },
+  {
+    "id": 6,
+    "image": "https://cdn.daostarter.pro/SLEEP_logo2.jpg",
+    "title": "Crypto Cats",
+    "totalRaise": "30000",
+    "depositToken": "USDT",
+    "totalDeposit": "60000",
+    "startDate": "2023-07-15T00:00:00Z",
+    "endDate": "2023-07-22T00:00:00Z",
+    "saleStatus": "completed",
+    "fcfs": false,
+    "projectDetail": "Crypto Cats is a collection of cute NFT cats that come with unique personalities and backgrounds.",
+    "vestingPeriod": "3 months",
+    "distributionMethod": "Airdrop",
+    "inventory": [
+      {
+        "item": "Crypto Cat #1",
+        "price": "0.5",
+        "maxNumber": "50",
+        "numberLeft": "50"
+      },
+      {
+        "item": "Crypto Cat #2",
+        "price": "1",
+        "maxNumber": "25",
+        "numberLeft": "25"
+      },
+      {
+        "item": "Crypto Cat #3",
+        "price": "2",
+        "maxNumber": "10",
+        "numberLeft": "10"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "ETH",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/cryptocats",
+    "twitterUrl": "https://twitter.com/cryptocats",
+    "websiteUrl": "https://www.cryptocats.com"
+  },
+  {
+    "id": 7,
+    "image": "https://cdn.daostarter.pro/galaxyblitz_logo2.png",
+    "title": "Legendary Heroes",
+    "totalRaise": "50000",
+    "depositToken": "USDT",
+    "totalDeposit": "100000",
+    "startDate": "2023-08-01T00:00:00Z",
+    "endDate": "2023-08-08T00:00:00Z",
+    "saleStatus": "upcoming",
+    "fcfs": true,
+    "projectDetail": "Legendary Heroes is a collection of rare NFT characters that you can use in a multiplayer game.",
+    "vestingPeriod": "6 months",
+    "distributionMethod": "Minting",
+    "inventory": [
+      {
+        "item": "Legendary Hero #1",
+        "price": "2",
+        "maxNumber": "100",
+        "numberLeft": "100"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "BNB",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/legendaryheroes",
+    "twitterUrl": "https://twitter.com/legendaryheroes",
+    "websiteUrl": "https://www.legendaryheroes.com"
+  },
+  {
+    "id": 8,
+    "image": "https://cdn.daostarter.pro/irocket_logo2.png",
+    "title": "Fashionable NFTs",
+    "totalRaise": "20000",
+    "depositToken": "USDT",
+    "totalDeposit": "40000",
+    "startDate": "2023-08-15T00:00:00Z",
+    "endDate": "2023-08-22T00:00:00Z",
+    "saleStatus": "completed",
+    "fcfs": false,
+    "projectDetail": "Fashionable NFTs is a collection of stylish and trendy digital wearables that can be used in virtual worlds and gaming environments.",
+    "vestingPeriod": "No vesting period",
+    "distributionMethod": "Random distribution",
+    "inventory": [
+      {
+        "item": "NFT Sunglasses",
+        "price": "0.5",
+        "maxNumber": "5000",
+        "numberLeft": "1500"
+      },
+      {
+        "item": "NFT Sneakers",
+        "price": "1",
+        "maxNumber": "3000",
+        "numberLeft": "2500"
+      },
+      {
+        "item": "NFT T-Shirts",
+        "price": "0.25",
+        "maxNumber": "10000",
+        "numberLeft": "5000"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "ETH",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/fashionablenfts",
+    "twitterUrl": "https://twitter.com/fashionablenfts",
+    "websiteUrl": "https://www.fashionablenfts.com"
+  },
+  {
+    "id": 9,
+    "image": "https://cdn.daostarter.pro/Antmons_logo2.png",
+    "title": "CryptoPup",
+    "totalRaise": "5000",
+    "depositToken": "USDT",
+    "totalDeposit": "10000",
+    "startDate": "2023-05-01T00:00:00Z",
+    "endDate": "2023-05-08T00:00:00Z",
+    "saleStatus": "completed",
+    "fcfs": true,
+    "projectDetail": "CryptoPup is a collection of unique digital dogs on the Ethereum blockchain.",
+    "vestingPeriod": "6 months",
+    "distributionMethod": "Airdrop",
+    "inventory": [
+      {
+        "item": "CryptoPup #1",
+        "price": "1",
+        "maxNumber": "100",
+        "numberLeft": "100"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "ETH",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/cryptopup",
+    "twitterUrl": "https://twitter.com/cryptopup",
+    "websiteUrl": "https://www.cryptopup.com"
+  },
+  {
+    "id": 10,
+    "image": "https://cdn.daostarter.pro/photo_2022-12-09_15-54-35.jpg",
+    "title": "Pixel Art Collection",
+    "totalRaise": "10000",
+    "depositToken": "USDT",
+    "totalDeposit": "20000",
+    "startDate": "2023-05-15T00:00:00Z",
+    "endDate": "2023-05-22T00:00:00Z",
+    "saleStatus": "completed",
+    "fcfs": false,
+    "projectDetail": "Pixel Art Collection is a series of unique pixel art NFTs inspired by classic video games.",
+    "vestingPeriod": "3 months",
+    "distributionMethod": "Minting",
+    "inventory": [
+      {
+        "item": "Pixel Art #1",
+        "price": "0.1",
+        "maxNumber": "500",
+        "numberLeft": "500"
+      },
+      {
+        "item": "Pixel Art #2",
+        "price": "0.2",
+        "maxNumber": "250",
+        "numberLeft": "250"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "BSC",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/pixelartcollection",
+    "twitterUrl": "https://twitter.com/pixelart",
+    "websiteUrl": "https://www.pixelartcollection.com"
+  },
+  {
+    "id": 11,
+    "image": "https://cdn.daostarter.pro/kitsumon_logo2.jpg",
+    "title": "Galactic Wars",
+    "totalRaise": "20000",
+    "depositToken": "USDT",
+    "totalDeposit": "40000",
+    "startDate": "2023-06-01T00:00:00Z",
+    "endDate": "2023-06-08T00:00:00Z",
+    "saleStatus": "completed",
+    "fcfs": true,
+    "projectDetail": "Galactic Wars is a collection of unique space-themed NFTs that let you battle against other players.",
+    "vestingPeriod": "6 months",
+    "distributionMethod": "Lottery",
+    "inventory": [
+      {
+        "item": "Galactic Ship #1",
+        "price": "1",
+        "maxNumber": "50",
+        "numberLeft": "50"
+      },
+      {
+        "item": "Galactic Ship #2",
+        "price": "2",
+        "maxNumber": "25",
+        "numberLeft": "25"
+      },
+      {
+        "item": "Galactic Ship #3",
+        "price": "5",
+        "maxNumber": "10",
+        "numberLeft": "10"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "SOL",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/galacticwars",
+    "twitterUrl": "https://twitter.com/galacticwars",
+    "websiteUrl": "https://www.galacticwars.com"
+  },
+  {
+    "id": 12,
+    "image": "https://cdn.daostarter.pro/NomadLand_logo2.png",
+    "title": "Artistic Expression",
+    "totalRaise": "15000",
+    "depositToken": "USDT",
+    "totalDeposit": "30000",
+    "startDate": "2023-06-15T00:00:00Z",
+    "endDate": "2023-06-22T00:00:00Z",
+    "saleStatus": "completed",
+    "fcfs": false,
+    "projectDetail": "Artistic Expression is a collection of abstract digital art NFTs that explore the limits of creativity.",
+    "vestingPeriod": "3 months",
+    "distributionMethod": "Auction",
+    "inventory": [
+      {
+        "item": "Artistic Expression #1",
+        "price": "0.5",
+        "maxNumber": "100",
+        "numberLeft": "100"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "ADA",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/artisticexpression",
+    "twitterUrl": "https://twitter.com/artisticexp",
+    "websiteUrl": "https://www.artisticexpression.com"
+  },
+  {
+    "id": 13,
+    "image": "https://cdn.daostarter.pro/elfmatrix_logo2.png",
+    "title": "NFT Land",
+    "totalRaise": "25000",
+    "depositToken": "USDT",
+    "totalDeposit": "50000",
+    "startDate": "2023-07-01T00:00:00Z",
+    "endDate": "2023-07-08T00:00:00Z",
+    "saleStatus": "upcoming",
+    "fcfs": true,
+    "projectDetail": "NFT Land is a collection of virtual land parcels on the Polygon blockchain where you can build and trade NFTs.",
+    "vestingPeriod": "6 months",
+    "distributionMethod": "Minting",
+    "inventory": [
+      {
+        "item": "NFT Land Parcel #1",
+        "price": "1",
+        "maxNumber": "1000",
+        "numberLeft": "1000"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "MATIC",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/nftland",
+    "twitterUrl": "https://twitter.com/nftland",
+    "websiteUrl": "https://www.nftland.com"
+  },
+  {
+    "id": 14,
+    "image": "https://cdn.daostarter.pro/SLEEP_logo2.jpg",
+    "title": "Crypto Cats",
+    "totalRaise": "30000",
+    "depositToken": "USDT",
+    "totalDeposit": "60000",
+    "startDate": "2023-07-15T00:00:00Z",
+    "endDate": "2023-07-22T00:00:00Z",
+    "saleStatus": "completed",
+    "fcfs": false,
+    "projectDetail": "Crypto Cats is a collection of cute NFT cats that come with unique personalities and backgrounds.",
+    "vestingPeriod": "3 months",
+    "distributionMethod": "Airdrop",
+    "inventory": [
+      {
+        "item": "Crypto Cat #1",
+        "price": "0.5",
+        "maxNumber": "50",
+        "numberLeft": "50"
+      },
+      {
+        "item": "Crypto Cat #2",
+        "price": "1",
+        "maxNumber": "25",
+        "numberLeft": "25"
+      },
+      {
+        "item": "Crypto Cat #3",
+        "price": "2",
+        "maxNumber": "10",
+        "numberLeft": "10"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "ETH",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/cryptocats",
+    "twitterUrl": "https://twitter.com/cryptocats",
+    "websiteUrl": "https://www.cryptocats.com"
+  },
+  {
+    "id": 15,
+    "image": "https://cdn.daostarter.pro/galaxyblitz_logo2.png",
+    "title": "Legendary Heroes",
+    "totalRaise": "50000",
+    "depositToken": "USDT",
+    "totalDeposit": "100000",
+    "startDate": "2023-08-01T00:00:00Z",
+    "endDate": "2023-08-08T00:00:00Z",
+    "saleStatus": "upcoming",
+    "fcfs": true,
+    "projectDetail": "Legendary Heroes is a collection of rare NFT characters that you can use in a multiplayer game.",
+    "vestingPeriod": "6 months",
+    "distributionMethod": "Minting",
+    "inventory": [
+      {
+        "item": "Legendary Hero #1",
+        "price": "2",
+        "maxNumber": "100",
+        "numberLeft": "100"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "BNB",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/legendaryheroes",
+    "twitterUrl": "https://twitter.com/legendaryheroes",
+    "websiteUrl": "https://www.legendaryheroes.com"
+  },
+  {
+    "id": 16,
+    "image": "https://cdn.daostarter.pro/irocket_logo2.png",
+    "title": "Fashionable NFTs",
+    "totalRaise": "20000",
+    "depositToken": "USDT",
+    "totalDeposit": "40000",
+    "startDate": "2023-08-15T00:00:00Z",
+    "endDate": "2023-08-22T00:00:00Z",
+    "saleStatus": "completed",
+    "fcfs": false,
+    "projectDetail": "Fashionable NFTs is a collection of stylish and trendy digital wearables that can be used in virtual worlds and gaming environments.",
+    "vestingPeriod": "No vesting period",
+    "distributionMethod": "Random distribution",
+    "inventory": [
+      {
+        "item": "NFT Sunglasses",
+        "price": "0.5",
+        "maxNumber": "5000",
+        "numberLeft": "1500"
+      },
+      {
+        "item": "NFT Sneakers",
+        "price": "1",
+        "maxNumber": "3000",
+        "numberLeft": "2500"
+      },
+      {
+        "item": "NFT T-Shirts",
+        "price": "0.25",
+        "maxNumber": "10000",
+        "numberLeft": "5000"
+      }
+    ],
+    "blockchainSystem": {
+      "initials": "ETH",
+      "icon": "https://dummyimage.com/32x32/000/fff"
+    },
+    "telegramUrl": "https://t.me/fashionablenfts",
+    "twitterUrl": "https://twitter.com/fashionablenfts",
+    "websiteUrl": "https://www.fashionablenfts.com"
+  }
+]
